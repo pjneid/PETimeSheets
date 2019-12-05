@@ -1,0 +1,10 @@
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\bin\Debug\PE.TimeSheets.Display.exe.config
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\bin\Debug\PE.TimeSheets.Display.exe
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\bin\Debug\PE.TimeSheets.Display.pdb
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.csprojAssemblyReference.cache
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.frmMain.resources
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.Properties.Resources.resources
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.csproj.GenerateResource.cache
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.csproj.CoreCompileInputs.cache
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.exe
+C:\TSProjects\PETimeSheets\PE.TimeSheets.Display\obj\Debug\PE.TimeSheets.Display.pdb
